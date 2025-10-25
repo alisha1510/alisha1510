@@ -74,6 +74,11 @@ Part of the organizing team for *TEDxDYPDPU: “Kintsugi – Scars Become Storie
 
 ---
 
+### 🐍 GitHub Contribution Snake
+![snake gif](https://github.com/alisha1510/alisha1510/blob/output/github-snake-dark.svg)
+
+---
+
 ### 🪶 Hacktoberfest Badge  
 Here's my HactoberFest'24 badge 🏅  
 [![An image of @alisha1510's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alisha1510)][holopin]
