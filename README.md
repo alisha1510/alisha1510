@@ -27,7 +27,7 @@
 
 ### 👩‍💻 About Me  
 Third-year Computer Engineering student passionate about DSA, web development, and data analytics.  
-Skilled in **MySQL, Python, C++, and front-end technologies**.  
+Skilled in **MySQL, Python, C++,Mongodb and front-end technologies**.  
 Experienced in building academic and real-world projects.  
 Driven by curiosity to apply learning in innovative, practical ways and constantly exploring new technologies to enhance data-driven decision-making.
 
@@ -48,6 +48,10 @@ Developed a website featuring previous year questions, notes, and a buy-sell sec
 **📺 TV Series Analysis Tool** — *(Python, MySQL, Pandas)*  
 Built an interactive data visualization tool analyzing series by genres, ratings, and release years. Implemented CSV-to-MySQL integration and visualized trends using matplotlib.  
 
+** Email Spam Detection System** -  *(	Python, Machine Learning, NLP)*
+– Developed a cyber security-focused model to classify emails as spam or ham using text-based analysis.
+– Improved classification performance by optimizing algorithm selection and testing with real-world email samples
+
 ---
 
 ### 🤝 Volunteering & Leadership  
@@ -67,11 +71,13 @@ Part of the organizing team for *TEDxDYPDPU: “Kintsugi – Scars Become Storie
 ---
 
 ### 🏅 Certifications & Achievements  
-- **Prompt Design in Vertex AI** – Google Cloud Skills Boost  
+- **Python for Data Science Project** – IBM Online Learning
+- **Data Analytics Job Simulation** – Deloitte (Used Tableau & real business case studies)
+- **Oracle Certified Foundations Associate** — Oracle (knowledge of Oracle technologies and databases concepts)
+- **Prompt Design in Vertex AI** – Google Cloud Skills Boost
+- **Introduction to Large Language Models** - Google Cloud Skills Boost
+- **Introduction to Generative AI** - Google Cloud Skills Boost
 - **Hacktoberfest 2024: Level 4 Contributor** – Featured in 2024 Hall of Fame  
-- **Python for Data Science Project** – IBM Online Learning  
-- **HackSeries** – Contributed to planning and execution of HackSeries sessions while being part of ACES (roadmaps, Git/GitHub workshops, webdev sessions) and coordinated participant activities  
-
 ---
 
 ### 🐍 GitHub Contribution Snake
@@ -80,7 +86,7 @@ Part of the organizing team for *TEDxDYPDPU: “Kintsugi – Scars Become Storie
 ---
 
 ### 🪶 Hacktoberfest Badge  
-Here's my HactoberFest'24 badge 🏅  
+Here's my HactoberFest badge 🏅  
 [![An image of @alisha1510's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alisha1510)][holopin]
 
 [holopin]: https://holopin.io/@alisha1510  
