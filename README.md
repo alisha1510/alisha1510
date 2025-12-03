@@ -18,7 +18,7 @@
   <a href="https://github.com/alisha1510">
     <img src="https://img.shields.io/badge/GitHub-%231F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://drive.google.com/file/d/1OhWBBgguWbd5u79I4Xr9fLoTnXezE3u_/view">
+  <a href="https://drive.google.com/drive/folders/1V02AoQWO19D2xeXJ3jZtThEcMF7I4nQ_?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-%230EA5E9?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
@@ -26,15 +26,12 @@
 ---
 
 ### 👩‍💻 About Me  
-Third-year Computer Engineering student passionate about DSA, web development, and data analytics.  
-Skilled in **MySQL, Python, C++,Mongodb and front-end technologies**.  
-Experienced in building academic and real-world projects.  
-Driven by curiosity to apply learning in innovative, practical ways and constantly exploring new technologies to enhance data-driven decision-making.
+Third year Computer Engineering student with strong interest in Data Science, web development, and data analytics Skilled in Python, C++,Mongo-Db, SQL, and data visualization using Pandas and Matplotlib and front-end technologies. Passionate about problem-solving and continuously learning new technologies to apply practical solutions.
 
 ---
 
 ### 🎓 Education  
-- **B.E. in Computer Engineering**, Dr. D. Y. Patil Institute of Technology, Pimpri, Pune (2023–2027)  
+- **B.E. in Computer Engineering**, Dr. D. Y. Patil Institute of Technology, Pimpri, Pune - 9.2 CGPA (2023–2027)  
 - **H.S.C.**, DAV Public School, Pune — 79% (2023)  
 - **S.S.C.**, DAV Public School, Pune — 92.4% (2021)  
 
