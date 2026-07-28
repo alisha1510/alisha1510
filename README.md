@@ -52,15 +52,14 @@ Built an interactive data visualization tool analyzing series by genres, ratings
 ---
 
 ### 🤝 Volunteering & Leadership  
+**CLub Advisor – ACES (2026-27)**  
+Contributing to club planning and guiding the members in how to conduct the event and contin ueing the legacy the of club.
 
 **Vice President – ACES (2025–26)**  
 Overseeing club operations, guiding event initiatives, and fostering collaboration among members.  
 
 **Junior Public Relations Officer – ACES (2024–25)**  
 Supported outreach, coordination, and promotion for departmental events.  
-
-**Outreach Associate – Acunetix 12.0**  
-Contributed to outreach, promotions, and the “Escape Room” event organization.  
 
 **Senior Event Production & Management – TEDxDYPDPU**  
 Part of the organizing team for *TEDxDYPDPU: “Kintsugi – Scars Become Stories”*, contributing to production and stage management.  
